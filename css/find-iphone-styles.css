@@ -33,3 +33,22 @@ table
 {
   background-color: #51b0d7
 }
+
+.forgotUN
+{
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  display: flex;
+  margin: auto;
+}
+
+.forgotPass
+{
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  display: flex;
+
+}
