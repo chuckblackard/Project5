@@ -23,3 +23,13 @@ table
   border: 2px solid grey;
   border-radius: 8px;
 }
+
+.modal-header
+{
+  background-color: #51b0d7;
+}
+
+.modal-footer
+{
+  background-color: #51b0d7
+}
